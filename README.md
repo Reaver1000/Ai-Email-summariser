@@ -113,3 +113,14 @@ If Gmail API fails, the application will fall back to IMAP. For Gmail, you'll ne
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## Author
+
+**David Buchan** — Junior AI Engineer & Data Analyst
+- Fully remote worldwide · Erfurt, Germany (UK citizen)
+- Skills: Python, SQL, ETL, LLM APIs, n8n, machine learning, QA automation, test automation
+- Portfolio: https://reaver1000.github.io
+- LinkedIn: https://www.linkedin.com/in/david-a-buchan/
+- Hugging Face: https://huggingface.co/Reaver1000
